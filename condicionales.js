@@ -23,6 +23,7 @@ switch(operacion) {
     break;
   case 7:
     console.log("El resultado es 7");
+    break;
   default:
     console.log("El resultado no es 0 o 7")
 }
